@@ -1,7 +1,7 @@
 {
   "config": {
     "page-url": "https://istyle.rs/otvoreni-proizvodi.html",
-    "driver-path": "C:\\Users\\Laptop\\Desktop\\chrome-driver\\chromedriver.exe",
+    "driver-path": "chromedriver.exe",
     "products-file-path": "products.json",
     "sender-email": "bgkgsiit@gmail.com",
     "sender-pass": "Milos12345678",
